@@ -1,0 +1,1 @@
+In this part of Lab 3, we focused on inter-process communication (IPC) using shared memory. Shared memory is one of the fastest IPC mechanisms, allowing processes to communicate by sharing a portion of memory. The objective was to understand how shared memory works and how multiple processes can use it to share data efficiently.
